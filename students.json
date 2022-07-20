@@ -1,0 +1,36 @@
+{"Students":[
+    {
+        "Name":"seymur",
+        "Gender":"male",
+        "Age":25,
+        "Surname":"manafov",
+        "City":"Baku"
+    },
+    {
+        "Name":"Faxrin",
+        "Gender":"male",
+        "Age":24,
+        "Surname":"Aliyev",
+        "City":"Baku" 
+
+    },
+    {
+        "Name":"Elshan",
+        "Gender":"male",
+        "Age":25,
+        "Surname":"Aliyev",
+        "City":"Baku" 
+
+    },{
+        "Name":"Sabina",
+        "Gender":"famale",
+        "Age":25,
+        "Surname":"Salehova",
+        "City":"Baku" 
+
+    }
+
+
+]
+   
+}
